@@ -1,6 +1,6 @@
 # Hi there, I'm Wangbaishun 👋
 
-[Click here for Chinese version](#%E5%BE%AE%E8%BD%AF%E7%89%88%E6%9C%AC) | [Click here for English version](#hi-there-im-wangbaishun)
+[Click here for Chinese version](#%E5%BE%AE%E8%BD%AF%E7%89%88%E6%9C%AC)
 
 Welcome to my GitHub profile! I'm a passionate frontend developer with a strong focus on modern web technologies.
 
