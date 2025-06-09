@@ -1,31 +1,45 @@
-## Hi! Nice to meet you,my friend
-### Here are my personal introduce
+# Hi there, I'm Wangbaishun 👋
 
-### My ability
-<p>
-    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-    <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-    <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-    <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
-<!--
-**MaiRen1997/MaiRen1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Click here for Chinese version](#%E5%BE%AE%E8%BD%AF%E7%89%88%E6%9C%AC) | [Click here for English version](#hi-there-im-wangbaishun)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate frontend developer with a strong focus on modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🔭 I’m currently working on **Vue.js 3 + TypeScript** projects.
+- 🌱 I’m constantly learning and exploring new technologies, especially in the fields of **AI**, **IoT**, and **business automation**.
+- 💬 Ask me about **frontend development**, **Vue.js**, **Django**, and anything related to **tech**.
+- 📫 How to reach me: [My Email](mailto:your-email@example.com)
+
+---
+
+## Languages and Tools
+
+- **Languages**: JavaScript, TypeScript, Python
+- **Frameworks**: Vue.js, Element Plus, Django
+- **Tools**: Git, Docker, Webpack, Nginx, Redis
+
+---
+
+## 微软版本
+
+欢迎来到我的GitHub主页！我是一个充满热情的前端开发工程师，专注于现代Web技术。
+
+---
+
+## 关于我
+
+- 🔭 我目前正在开发 **Vue.js 3 + TypeScript** 项目。
+- 🌱 我持续学习并探索新技术，尤其是在 **AI**、**物联网** 和 **业务自动化** 领域。
+- 💬 如果你对 **前端开发**、**Vue.js**、**Django** 或任何技术相关问题感兴趣，欢迎与我交流。
+- 📫 我的联系方式：[我的邮箱](mailto:your-email@example.com)
+
+---
+
+## 技能与工具
+
+- **语言**: JavaScript, TypeScript, Python
+- **框架**: Vue.js, Element Plus, Django
+- **工具**: Git, Docker, Webpack, Nginx, Redis
